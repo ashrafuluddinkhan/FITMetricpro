@@ -1,0 +1,8 @@
+{
+  "name": "FitMetric Pro: Data Insight & Evaluation Dashboard",
+  "description": "An advanced fitness analytics platform that processes workout data to provide deep performance insights and automated evaluation metrics using Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
